@@ -3,7 +3,7 @@ module atlas-portals
 go 1.21.6
 
 require (
-	github.com/Chronicle20/atlas-kafka v0.0.0-20240724124113-005f51decf9a
+	github.com/Chronicle20/atlas-kafka v1.0.4
 	github.com/Chronicle20/atlas-model v1.0.2
 	github.com/Chronicle20/atlas-rest v0.0.0-20240723203319-7d81b01598b5
 	github.com/google/uuid v1.6.0
@@ -24,5 +24,5 @@ require (
 	github.com/pkg/errors v0.9.1 // indirect
 	github.com/uber/jaeger-lib v2.4.1+incompatible // indirect
 	go.uber.org/atomic v1.11.0 // indirect
-	golang.org/x/sys v0.22.0 // indirect
+	golang.org/x/sys v0.24.0 // indirect
 )
